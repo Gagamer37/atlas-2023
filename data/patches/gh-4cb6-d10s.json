@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "D10S",
+	"description": "D10S (Which comes from the fusion of \"dios\", god in Spanish, and the number 10) is a very popular nickname referring to the Argentine football player Diego Armando Maradona, a player who is, in popular opinion, the best player of all time. The nickname is due to the fact that he wore the number 10 and he was so good at playing that they compared him to god.",
+	"links": {
+		"subreddit": [
+			"PlaceArg",
+			"Argentina",
+			"fulbo",
+			"Maradona"
+		]
+	},
+	"path": {
+		"224-256": [
+			[
+				1071,
+				988
+			],
+			[
+				1071,
+				994
+			],
+			[
+				1086,
+				994
+			],
+			[
+				1086,
+				988
+			],
+			[
+				1071,
+				988
+			]
+		]
+	},
+	"center": {
+		"224-256": [
+			1079,
+			991
+		]
+	}
+}
